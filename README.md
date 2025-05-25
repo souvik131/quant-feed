@@ -17,6 +17,20 @@ Quant Feed is a comprehensive financial analysis API that provides 17 advanced t
 - 🔍 Correlation analysis and seasonal patterns
 - ✅ Data quality validation
 
+## 📸 Example Screenshots
+
+![Quant Feed Example 1](https://pbs.twimg.com/media/Grxl2oLW8AAHB8r?format=jpg&name=4096x4096)
+
+![Quant Feed Example 2](https://pbs.twimg.com/media/GrxmpWnXAAAN1XN?format=jpg&name=4096x4096)
+
+![Quant Feed Example 3](https://pbs.twimg.com/media/GrxnruAWEAAm208?format=jpg&name=4096x4096)
+
+![Quant Feed Example 4](https://pbs.twimg.com/media/GrxoLNrWcAAmwrw?format=jpg&name=4096x4096)
+
+![Quant Feed Example 5](https://pbs.twimg.com/media/GrxotoNWAAEuScQ?format=jpg&name=4096x4096)
+
+![Quant Feed Example 6](https://pbs.twimg.com/media/GrxpA4YWkAEz-tN?format=jpg&name=4096x4096)
+
 ## 🚀 Quick Setup (2 Minutes)
 
 ### Step 1: Install Claude Desktop
