@@ -113,4 +113,4 @@ Once configured, you can ask Claude things like:
 
 ## Setup Video Tutorial
 
-🎥 **Watch the setup process : [Link](setup.mov)**
+🎥 **Watch the setup process : [Link](https://www.youtube.com/watch?v=OT9SbKe19Cg)**
