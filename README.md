@@ -2,10 +2,6 @@
 
 **Get powerful financial analysis tools directly in Claude Desktop with just one simple configuration!**
 
-## 🎥 Setup Video Tutorial
-
-**Watch the complete setup process: [Setup Tutorial](https://www.youtube.com/watch?v=OT9SbKe19Cg)**
-
 ## What is Quant Feed?
 
 Quant Feed is a comprehensive financial analysis API that provides 17 advanced tools for:
@@ -30,6 +26,10 @@ Quant Feed is a comprehensive financial analysis API that provides 17 advanced t
 ![Quant Feed Example 5](https://pbs.twimg.com/media/GrxotoNWAAEuScQ?format=jpg&name=4096x4096)
 
 ![Quant Feed Example 6](https://pbs.twimg.com/media/GrxpA4YWkAEz-tN?format=jpg&name=4096x4096)
+
+## 🎥 Setup Video Tutorial
+
+**Watch the complete setup process: [Setup Tutorial](https://www.youtube.com/watch?v=OT9SbKe19Cg)**
 
 ## 🚀 Quick Setup (2 Minutes)
 
