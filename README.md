@@ -17,9 +17,7 @@ Quant Feed is a comprehensive financial analysis API that provides 17 advanced t
 
 1. **Install Claude Desktop** from [claude.ai](https://claude.ai/download)
 
-2. **Download the MCP Server**: Get the `kite-mcp-server` executable from [here](https://github.com/souvik131/kite-go-library/raw/refs/heads/main/kite-mcp-server) or build from source
-
-3. **Configure Claude Desktop**: Go to Settings → Developer → Edit Config and add the configuration below
+2. **Configure Claude Desktop**: Go to Settings → Developer → Edit Config and add the configuration below
 
 ### Claude Desktop Configuration
 
