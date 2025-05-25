@@ -48,7 +48,7 @@ Download and install Claude Desktop from [claude.ai](https://claude.ai/download)
   "mcpServers": {
     "quant-feed": {
       "command": "npx",
-      "args": ["mcp-remote", "https://quant-feed-ln4o5.ondigitalocean.app/sse"],
+      "args": ["mcp-remote", "https://quant.tradingalgo.app/sse"],
       "disabled": false,
       "autoApprove": []
     }
